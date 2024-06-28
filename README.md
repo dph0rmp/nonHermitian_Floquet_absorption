@@ -9,8 +9,7 @@ It contains the following items:
 
 ## License
 
-The files distributed with this program are provided subject to the GNU General Public License, Version 3.0. A Copy of the license is provided.
-
+The files distributed with this program are provided subject to the GNU General Public License, Version 3.0.
 ## Change Log
 v 1.0 (28/06/2024)
 - Program uploaded to repoitory.
