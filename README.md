@@ -12,4 +12,6 @@ It contains the following items:
 The files distributed with this program are provided subject to the GNU General Public License, Version 3.0.
 ## Change Log
 v 1.0 (28/06/2024)
-- Programs uploaded to repoitory.
+- Programs uploaded to repository.
+v 1.1 (19/11/2024)
+- nonHermitian_figure1.py replaced by a new version (minor changes)
