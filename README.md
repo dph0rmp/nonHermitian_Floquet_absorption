@@ -1,6 +1,6 @@
 # Non-Hermitian Floquet absorption spectroscopy
 
-This repository contains the programs used to create figures 1 and 2 of R M Potvliege, "Non-Hermitian FLoquet dynamics in absorption spectroscopy", https://arxiv.org/abs/2406.16559 .
+This repository contains the programs used to create figures 1 and 2 of R M Potvliege, "Non-Hermitian Floquet dynamics in absorption spectroscopy", https://arxiv.org/abs/2406.16559 , accepted for publication in the Proceedings of the Royal Society A.
 
 It contains the following items:
 
